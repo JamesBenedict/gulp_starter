@@ -1,0 +1,29 @@
+{
+  "name": "abortion_interactive",
+  "version": "1.0.0",
+  "description": "A walkthrough of abortion regulations in Indiana",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamesBenedict/abortion_interactive.git"
+  },
+  "author": "James Benedict Anna Hyzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesBenedict/abortion_interactive/issues"
+  },
+  "homepage": "https://github.com/JamesBenedict/abortion_interactive",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-useref": "^3.1.2",
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.2.2",
+    "vinyl-ftp": "^0.5.0"
+  }
+}

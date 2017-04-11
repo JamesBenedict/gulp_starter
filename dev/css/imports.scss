@@ -1,0 +1,52 @@
+// Defining values
+$xs-min: 1px;
+$sm-min: 768px;
+$xs-max: ($sm-min - 1);
+$md-min: 992px;
+$sm-max: ($md-min - 1);
+$lg-min: 1200px;
+$md-max: ($lg-min - 1);
+$xl-min: 2000px;
+$lg-max: ($xl-min - 1);
+
+@-ms-viewport{
+  width: device-width;
+}
+
+$Jamesred: #b83c2a;;
+
+$blue: #42708C;
+$red: #bd4147;
+$green: #477c4e;
+$mutedblue: #95c7e5;
+$mutedred: #eac5bf;
+$mutedgreen: #bbeac2;
+$nearlywhite: #f7f7f7;
+$light-gray: #e9e9e9;
+$gray: #d5d5d5;
+$mid-gray: #b2b2b2;
+$dark-gray: #2a2a2a;
+
+
+// @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Lato:300,400,700,900');
+
+// @import 'breakpoints.scss';
+// // xs small
+// @media (max-width: $xs-max){
+
+// }
+
+// // small
+// @media (max-width: $sm-max){
+	
+// }
+
+// // medium
+// @media (max-width: $md-max){
+	
+// }
+
+// // xs small
+// @media (max-width: $lg-min){
+	
+// }
